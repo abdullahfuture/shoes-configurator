@@ -1,7 +1,7 @@
 # shoes-configurator
 ## 3D Shoes Configurator
 
-This is a 3D shoes configurator that allows users to customize their shoes by changing the color and other <br />
+This is a 3D shoes configurator that allows users to customize their shoes by changing the color and more <br />
 
 ## Getting Started
 To get started with the Spline-React 3D Website, follow the steps below:
